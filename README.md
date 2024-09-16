@@ -1,4 +1,3 @@
-# Accenture-Data-Analytics-and-Visualization-Job-Simulation
 # Social Buzz - Data Analysis and Visualization Project
 
 ## Project Overview
