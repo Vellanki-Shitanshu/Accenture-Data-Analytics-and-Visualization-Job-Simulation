@@ -117,9 +117,4 @@ This project demonstrated how data analysis and visualization can provide action
 
 ---
 
-## Repository Structure
 
-- `datasets/`: Contains all the datasets used for analysis.
-- `sql_queries/`: SQL scripts used to extract and merge data.
-- `power_bi_dashboards/`: Power BI dashboard files for data visualization.
-- `presentations/`: PowerPoint files used for presenting insights to the client.
